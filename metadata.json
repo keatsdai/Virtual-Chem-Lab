@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Chem Lab",
+  "description": "An educational chemistry game for 8th–9th grade students using live hand gesture detection to identify mystery elements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
